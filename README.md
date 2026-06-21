@@ -1,2 +1,14 @@
 # mkarena-resource
-HTML page archive and documentation
+
+页面归档与发布记录
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
